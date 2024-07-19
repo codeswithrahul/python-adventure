@@ -18,3 +18,8 @@ I hope you are doing well. I wanted you inform you that...
 # print(name[0:5]) -- krish
 # print(name[:2])  ----> kr
 # print(name[:]) ---> krishna
+
+
+# formatted state (like a tem literal in js)
+formattedState = f"{name} hai mera naam"
+print(formattedState)
