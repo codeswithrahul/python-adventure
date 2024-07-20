@@ -11,3 +11,10 @@ x = 6
 isActive = True
 isActive = False
 # print(isActive) ------> false
+
+# assigning multiple value
+
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
